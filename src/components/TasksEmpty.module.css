@@ -1,0 +1,12 @@
+.tasksEmpty {
+	border-radius: 8px;
+	border-top: 1px solid var(--gray-400);
+
+	display: flex;
+	padding: 4rem 1.5rem;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 1rem;
+	color: var(--gray-300);
+}
